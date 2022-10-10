@@ -7,5 +7,8 @@ th, td {
     border:1px solid black;
   }
 input{
-    width: 99%;
+    width: 98%;
+}
+#utente{
+    border:1px solid balck;
 }
